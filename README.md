@@ -1,4 +1,5 @@
-### Hi there 🖐I'm Wesley | Systems Analyst 👨‍💻
+### Hi there👋
+I'm Wesley | Systems Analyst 👨‍💻
 <!--
 **wesleypavanello/wesleypavanello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
