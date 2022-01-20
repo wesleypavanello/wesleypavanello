@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Wesley, from Brazil (🇧🇷). I'm a graduate in Systems Analysis and Development at IFRO. I'm looking for experiences that lead me to a professional training as a developer, improving my soft-skills and hard-skills skills, also encourage Open Source Initiative (OSI) and and everyone in the community.
+My name is Wesley, from Brazil (🇧🇷). I'm a graduate in Systems Analysis and Development at IFRO. I'm looking for experiences that lead me to a professional training as a developer, improving my soft-skills and hard-skills skills, also encourage Open Source Initiative (OSI) and everyone in the community.
 <div>
   <img src="https://icongr.am/devicon/html5-original.svg?size=35&color=currentColor">
   <img src="https://icongr.am/devicon/css3-original.svg?size=35&color=currentColor">
